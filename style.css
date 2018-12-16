@@ -1,0 +1,41 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+body
+{
+	font-family: Comfortaa;
+}
+
+input
+{
+	width: 400px;
+	height: 30px;
+	padding: 10px;
+	text-align: center;
+	font-size: 25px;
+}
+
+#header
+{
+	font-size: 40px;
+}
+
+#check
+{
+	width: 150px;
+	height: 38px;
+	padding-top: 12px;
+	font-size: 20px;
+	background-color: grey;
+	border-radius: 20px;
+	color: white;
+}
+
+#check:hover
+{
+	background-color: darkgrey;
+	cursor: pointer;
+}
